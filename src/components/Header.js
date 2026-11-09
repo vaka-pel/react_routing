@@ -14,7 +14,7 @@ function Header()
                 >
                 Learn React
             </a>
-    </header>
+        </header>
     )
 }
 export default Header;
